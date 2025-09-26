@@ -1,0 +1,10 @@
+{
+  "Arduino_input": {
+    "Port": "COM11",
+    "Baudrate": 9600
+  },
+  "UDP_stream": {
+    "host": "127.0.0.1",
+    "Port": 7171
+  }
+}

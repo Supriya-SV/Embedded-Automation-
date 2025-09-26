@@ -1,0 +1,12 @@
+flask
+requests
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+tensorflow
+keras
+pillow
+pyvisa
+
